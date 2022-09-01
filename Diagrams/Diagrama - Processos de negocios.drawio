@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T19:22:57.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Iy_IK_rE5MJ684jMILcC" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-01T19:24:06.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kEKL4DqibAkWkijhZDQm" version="20.2.7" type="github" pages="2">
   <diagram id="iO8I31M1HO7iEmBMHilC" name="Cadastro Usuario">
     <mxGraphModel dx="813" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
         <mxCell id="Z2DAetVbfxJEDl6Q6rtn-4" value="Cadsatro" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z2DAetVbfxJEDl6Q6rtn-1" vertex="1">
           <mxGeometry x="120" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z2DAetVbfxJEDl6Q6rtn-5" value="CV" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z2DAetVbfxJEDl6Q6rtn-1" vertex="1">
+        <mxCell id="Z2DAetVbfxJEDl6Q6rtn-5" value="Inserir dados e CV" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z2DAetVbfxJEDl6Q6rtn-1" vertex="1">
           <mxGeometry x="240" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z2DAetVbfxJEDl6Q6rtn-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;" parent="Z2DAetVbfxJEDl6Q6rtn-1" vertex="1">
@@ -147,7 +147,7 @@
         <mxCell id="Z2DAetVbfxJEDl6Q6rtn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Z2DAetVbfxJEDl6Q6rtn-6" source="Z2DAetVbfxJEDl6Q6rtn-8" target="Z2DAetVbfxJEDl6Q6rtn-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z2DAetVbfxJEDl6Q6rtn-8" value="Avaliação do CV" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z2DAetVbfxJEDl6Q6rtn-6" vertex="1">
+        <mxCell id="Z2DAetVbfxJEDl6Q6rtn-8" value="Avaliação dos dados e CV" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z2DAetVbfxJEDl6Q6rtn-6" vertex="1">
           <mxGeometry x="240" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z2DAetVbfxJEDl6Q6rtn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Z2DAetVbfxJEDl6Q6rtn-6" source="Z2DAetVbfxJEDl6Q6rtn-9" target="Z2DAetVbfxJEDl6Q6rtn-12" edge="1">
