@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T22:29:30.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PZjj2-NOLRY0Qoj-BdqD" version="20.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-06T23:24:34.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="KlEeFUBzIRxvV70xdcHz" version="20.3.7" type="github" pages="3">
   <diagram id="rrkDkE5E40T_uh_sfdIn" name="CompradorUseCases">
     <mxGraphModel dx="633" dy="275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="170" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MyWpFqUBvWVRNcMNB60x-3" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="40" width="240" height="280" as="geometry" />
+          <mxGeometry x="120" y="40" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MyWpFqUBvWVRNcMNB60x-10" value="CSU01: Comprar Item&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="MyWpFqUBvWVRNcMNB60x-3" vertex="1">
           <mxGeometry x="40" y="20" width="130" height="30" as="geometry" />
@@ -18,12 +18,6 @@
         </mxCell>
         <mxCell id="Q_TgrsyGTBNrr4Tatgzc-1" value="CSU03: Realizar reembolso" style="ellipse;whiteSpace=wrap;html=1;" parent="MyWpFqUBvWVRNcMNB60x-3" vertex="1">
           <mxGeometry x="40" y="120" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ebb925ZoXjZ2kxUgz7pC-1" value="CSU04: Fazer pergunta" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="MyWpFqUBvWVRNcMNB60x-3" vertex="1">
-          <mxGeometry x="40" y="180" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="w_rliTgE7HYg7oNSr5M0-1" value="CSU05: Buscar produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="MyWpFqUBvWVRNcMNB60x-3" vertex="1">
-          <mxGeometry x="40" y="230" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MyWpFqUBvWVRNcMNB60x-9" value="Projeto Ágora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="10" width="100" height="30" as="geometry" />
@@ -44,18 +38,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="180" as="sourcePoint" />
             <mxPoint x="40" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ebb925ZoXjZ2kxUgz7pC-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ebb925ZoXjZ2kxUgz7pC-1" target="MyWpFqUBvWVRNcMNB60x-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="220" as="sourcePoint" />
-            <mxPoint x="220" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w_rliTgE7HYg7oNSr5M0-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MyWpFqUBvWVRNcMNB60x-1" target="w_rliTgE7HYg7oNSr5M0-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="330" as="sourcePoint" />
-            <mxPoint x="290" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
