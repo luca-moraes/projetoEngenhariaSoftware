@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T23:53:17.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="mj02MSSCbvzYHdZcTmKi" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-20T23:56:36.178Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3eLebkiPzhCps4P_poaV" version="20.4.2" type="github" pages="3">
   <diagram id="rrkDkE5E40T_uh_sfdIn" name="CompradorUseCases">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YgbZcGoNeetk5yWTW941" name="VendedorUseCase">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
         <mxCell id="fL1Wgi9M96XN7IhVNGbs-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="320" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="D7_sqQ1QvXnTQAAvOCPC-1" value="CSU06: Postar oferta" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="D7_sqQ1QvXnTQAAvOCPC-1" value="CSU04: Postar oferta" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SgMtcw3tXn0fbScPWtu_-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fL1Wgi9M96XN7IhVNGbs-1" target="D7_sqQ1QvXnTQAAvOCPC-1" edge="1">
@@ -63,7 +63,7 @@
             <mxPoint x="210" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgMtcw3tXn0fbScPWtu_-2" value="CSU07: Responder perguntas" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="SgMtcw3tXn0fbScPWtu_-2" value="CSU05: Responder perguntas" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="140" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SgMtcw3tXn0fbScPWtu_-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SgMtcw3tXn0fbScPWtu_-2" target="fL1Wgi9M96XN7IhVNGbs-1" edge="1">
@@ -72,7 +72,7 @@
             <mxPoint x="210" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgMtcw3tXn0fbScPWtu_-4" value="CSU08: Retirada de saldo" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="SgMtcw3tXn0fbScPWtu_-4" value="CSU06: Retirada de saldo" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="200" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SgMtcw3tXn0fbScPWtu_-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fL1Wgi9M96XN7IhVNGbs-1" target="SgMtcw3tXn0fbScPWtu_-4" edge="1">
@@ -84,7 +84,7 @@
         <mxCell id="SgMtcw3tXn0fbScPWtu_-6" value="Projeto Ágora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cGkObw80GdSM_S5zPnrm-2" value="CSU09: Visualizar todas as vendas" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="cGkObw80GdSM_S5zPnrm-2" value="CSU07: Visualizar todas as vendas" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="260" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cGkObw80GdSM_S5zPnrm-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cGkObw80GdSM_S5zPnrm-2" target="fL1Wgi9M96XN7IhVNGbs-1" edge="1">
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="paK83U_ZtDMXM7t8x7yQ" name="EspecialistaUseCases">
-    <mxGraphModel dx="1563" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
         <mxCell id="k__TyBbboYCGXpk2sloh-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="k__TyBbboYCGXpk2sloh-4" value="CSU10: Aceitar proposta" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="k__TyBbboYCGXpk2sloh-4" value="CSU8: Aceitar proposta" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k__TyBbboYCGXpk2sloh-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k__TyBbboYCGXpk2sloh-1" target="k__TyBbboYCGXpk2sloh-4" edge="1">
@@ -116,7 +116,7 @@
             <mxPoint x="240" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k__TyBbboYCGXpk2sloh-6" value="CSU11: Avaliar produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="k__TyBbboYCGXpk2sloh-6" value="CSU9: Avaliar produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="130" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k__TyBbboYCGXpk2sloh-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k__TyBbboYCGXpk2sloh-1" target="k__TyBbboYCGXpk2sloh-6" edge="1">
@@ -125,7 +125,7 @@
             <mxPoint x="240" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k__TyBbboYCGXpk2sloh-8" value="CSU12: Retirar Saldo" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="k__TyBbboYCGXpk2sloh-8" value="CSU10: Retirar Saldo" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="180" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k__TyBbboYCGXpk2sloh-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="k__TyBbboYCGXpk2sloh-8" target="k__TyBbboYCGXpk2sloh-1" edge="1">
