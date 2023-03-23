@@ -1,2 +1,2 @@
-# projetoCabele
-Projeto Ágora
+# Projeto da disciplina de Engenharia de software
+Projeto final para avaliação da nota da disciplina
